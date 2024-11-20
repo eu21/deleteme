@@ -1,27 +1,9 @@
-    1  git clone https://github.com/eu21/deleteme.git
-    2  git clone https://github.com/eu21/deleteme.git
-    3  git clone https://github.com/eu21/deleteme.git
-    4  git clone https://github.com/eu21/deleteme.git
-    5  cd deleteme/
-    6  vi README.md 
-    7  git push
-    8  git push
-    9  git push
-   10  git push
-   11  git config --global credential.helper store
-   12  git push
-   13  git push
-   14  git push
-   15  git pull
-   16  vi README.md 
-   17  git status
-   18  git commit -am'add line'
-   19  git status
-   20  git commit -am'add line'
-   21  git config --global user.email "phpsql.net@gmail.com"
-   22  git config --global user.name "Yauheni Kuzniatsou"
-   23  git push
-   24  gid commit -am'add line'
-   25  git commit -am'add line'
-   26  git push
-   27  history > hist.txt
+git clone https://github.com/eu21/deleteme.git
+cd deleteme/
+git config --global credential.helper store
+git add .
+git commit -am'add file'
+git config --global user.email "phpsql.net@gmail.com"
+git config --global user.name "Yauheni Kuzniatsou"
+gid commit -am'add line'
+git push
