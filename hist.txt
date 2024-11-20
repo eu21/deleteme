@@ -8,3 +8,6 @@ touch file.txt
 git add .
 git commit -am'add file'
 git push #use token when it ask your password
+
+Download gh to automate repo creation
+https://cli.github.com/
