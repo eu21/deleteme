@@ -1,9 +1,10 @@
-git clone https://github.com/eu21/deleteme.git
-cd deleteme/
 git config --global credential.helper store
-git add .
-git commit -am'add file'
 git config --global user.email "phpsql.net@gmail.com"
 git config --global user.name "Yauheni Kuzniatsou"
-gid commit -am'add line'
-git push
+
+git clone https://github.com/eu21/deleteme.git
+cd deleteme/
+touch file.txt
+git add .
+git commit -am'add file'
+git push #use token when it ask your password
